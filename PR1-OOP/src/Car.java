@@ -12,9 +12,9 @@ public class Car {
 		currentGear++;
 	}
 	
-	public void setCurrentGear(int CurrentGear)
+	public void setCurrentGear(int currentGear)
 	{
-		this.currentGear = CurrentGear;
+		this.currentGear = currentGear;
 	}
 	
 	public void accelerate(int customSpeed)

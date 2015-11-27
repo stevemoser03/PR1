@@ -8,7 +8,8 @@ public class Gehaltskonto {
 	
 	
 	// Konstruktor
-	public Gehaltskonto(String inhaber, String iban, String bic) {
+	public Gehaltskonto(String inhaber, String iban,
+			String bic) {
 		this.inhaber = inhaber;
 		this.iban = iban;
 		this.bic = bic;
